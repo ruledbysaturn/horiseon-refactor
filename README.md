@@ -17,7 +17,7 @@ Horiseon application starter code was provided for refactoring. Page features a 
 
 md    ![Deployed Page Screenshot](assets/images/screenshot-completed.png)
 
-Link to <a href="placeholder">deployed webpage</a>
+Link to <a href="https://ruledbysaturn.github.io/horiseon-refactor/#social-media-marketing">deployed webpage</a>
 
 ## Credits
 
