@@ -75,7 +75,16 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+main section img {
+    max-height: 200px;
+}
+
+main section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+aside{
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -128,33 +137,6 @@ aside img {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {
